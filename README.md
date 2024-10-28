@@ -6,6 +6,13 @@ This is the official implementation of "***MAGA***: Morpho-Aware Global Attentio
 
 ![](figs/paper_figuresv3.svg)
 
+## To do list
+
+- [x] Inference code on both datasets
+- [x] Evaluation code on both datasets
+- [ ] Training code on both datasets
+- [ ] MAGA implementation code (Released after paper is published)
+
 ### Data Preparation
 
 #### Composition-1k
